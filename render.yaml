@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: pondfe-yuki
+    name: pondisbigy
     env: python
     region: Oregon
     plan: free
